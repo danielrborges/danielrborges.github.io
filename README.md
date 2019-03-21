@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Bem Vindo a Minha Página
 
-You can use the [editor on GitHub](https://github.com/danielrborges/danielrborges.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Me chamo Daniel
+Tenho 16 anos 
+Sou praticamente  viciado em séries com TVD e Scream
+Eu sou um Barb
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+Atualmente estou cursando o terceiro ano do curso de Imformatica no IFMA - Campus São Raimundo das Mangabeiras
+### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
