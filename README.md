@@ -1,39 +1,9 @@
 ## Bem Vindo a Minha Página
 
-Me chamo Daniel
-Tenho 16 anos 
-Sou praticamente  viciado em séries com TVD e Scream
-Eu sou um Barb
+Me chamo Daniel, tenho 16 anos e sou viciado em séries com TVD e Scream
 
 Atualmente estou cursando o terceiro ano do curso de Imformatica no IFMA - Campus São Raimundo das Mangabeiras
-### 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danielrborges/danielrborges.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Para mais informações 
+dan.araujo297@gmail.com
++55 99 984675688
